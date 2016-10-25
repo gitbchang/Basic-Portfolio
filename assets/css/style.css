@@ -1,0 +1,168 @@
+div {
+	color: #777777;
+	font-family: 'Arial', 'helvetica Neue', 'helvetica', sans-serif;
+	width: 960px;
+
+	
+
+}
+h1, h2 {
+
+	font-family: 'Georgia', Times, serif;
+
+}
+
+
+
+.header {
+
+	float: left;
+	width: 100%;
+	display: inline-block;
+	
+	overflow: auto;
+	
+}
+
+.buttonSection {
+	
+	float: right;
+	width: 20%;
+	margin-right: 500px;
+	text-align: center;
+    line-height: 4;
+
+
+}
+
+button {
+	font-family: 'Arial', 'helvetica Neue', 'helvetica', sans-serif;
+	font-size: 16px;
+	color: #777777;
+	background-color: white;
+	border-style: none;
+	opacity: .6;
+
+	
+}
+
+button:hover {
+	opacity: 1;
+}
+
+
+.middle {
+	width: 100%;
+	display: inline-block;
+	
+	overflow: auto;
+	position: relative;
+	background-image: url("../images/cork-wallet.png");
+	
+}
+
+#middleheader {
+	color: #4aaaa5;
+}
+
+#middleimg {
+	box-sizing: border-box;
+	width: 200px;
+	height: 200px;
+}
+
+#middleabout {
+	float: left;
+	border: solid #c3cccc;
+    border-width: 1px;
+	width: 650px;
+	height: 480px;
+	margin-left: 160px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+	background-color: white;
+	padding: 20px;
+
+
+}
+
+#middleconnect {
+	
+	float: right;
+	background-color: white;
+	box-sizing: border-box;
+	border: solid #c3cccc;
+    border-width: 1px;
+	width: 270px;
+	height: 200px;
+	margin-right: 500px;
+	margin-top: 30px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	color: #4aaaa5;
+
+
+}
+
+
+#headername {
+	color: white;
+	/* teal color */
+	background-color: #4aaaa5;
+	text-align: center;
+	float: left;
+	width: 10%;
+	margin-left: 160px;
+
+}
+
+
+
+.footerteal {
+	float: left;
+	background-color: #4aaaa5;
+	width: 100%;
+	height: 5px;
+	z-index: 100;
+	position: fixed;
+	
+	
+}
+/*
+.footer {
+	float: left;
+	background-color: #666666;
+	color: #c3cccc;
+	width: 100%;
+	height: 95px;
+	line-height: 100px;
+	text-align: center;
+	font-size: 12px;
+	clear: both;
+	z-index: 100;
+	/*
+	Making this fixed, overlaps the above teal footer. Why is this?
+	position: fixed;
+	*/
+
+
+footer {
+	height: 95px;
+	line-height: 95px;
+	background-color: #666666;
+	color: #c3cccc;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	z-index: 100;
+	
+	
+
+
+}
+
+}
+
