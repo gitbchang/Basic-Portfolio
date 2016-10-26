@@ -136,7 +136,39 @@ button:hover {
 
 }
 
+.middlePortfoliocont {
+	float: left;
+	border: solid #FF5700;
+    border-width: 1px;
+	width: 650px;
+	height: 830px;
+	margin-left: 160px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+	background-color: white;
+	padding: 30px;
+}
 
+#middlePortfolio {
+
+}
+
+.portfoliopic-left {
+	float: left;
+	margin-bottom: 55px;
+	position: relative;
+	width: 275px;
+	height: 200px;
+}
+
+.portfoliopic-right {
+	float: left;
+	margin-left: 45px;
+	margin-bottom: 55px;
+	width: 275px;
+	height: 200px;
+}
 
 #headername {
 	color: white;
@@ -149,7 +181,45 @@ button:hover {
 
 }
 
+#left-label {
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Garamond;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+	position: absolute;
+	left: 0px;
+    bottom: 10px;
+}
 
+#right-label {
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Garamond;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+	position: absolute;
+	bottom: 607px;
+}
+
+#right-label2 {
+	width: 275px;
+	height: 60px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: Garamond;
+	font-size: 26px;
+	text-align: center;
+	line-height: 60px;
+	position: absolute;
+	bottom: 353px;
+}
 
 .footerteal {
 	float: left;
