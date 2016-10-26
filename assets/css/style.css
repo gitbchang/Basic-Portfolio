@@ -81,7 +81,7 @@ button:hover {
 	background-image: url("../images/cork-wallet.png");
 	border-width: 2px 0px 0px 0px;
     border-style: solid;
-    border-color: #c3cccc;
+    border-color: #FF5700;
 
 	
 }
@@ -101,7 +101,7 @@ button:hover {
 
 #middleabout {
 	float: left;
-	border: solid #c3cccc;
+	border: solid #FF5700;
     border-width: 1px;
 	width: 650px;
 	height: 480px;
@@ -121,7 +121,7 @@ button:hover {
 	float: left;
 	background-color: white;
 	box-sizing: border-box;
-	border: solid #c3cccc;
+	border: solid #FF5700;
     border-width: 1px;
 	width: 270px;
 	height: 200px;
