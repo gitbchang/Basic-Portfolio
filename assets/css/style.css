@@ -49,13 +49,22 @@ body {
 	
 	float: left;
 	width: 20%;
-	margin-left: 445px;
+	margin-left: 600px;
 	text-align: center;
     line-height: 4;
 
-
-
 }
+
+.topbutton {
+	border-right: 1px solid;
+}
+
+
+.topbutton:visited {
+	background-color: #CC44B4;
+	color: #CC44B4;
+}
+
 
 .gitbutton {
 
@@ -104,11 +113,8 @@ button:hover {
 }
 
 
-button:visited {
-	color: #B2592A;
-}
 a:visited {
-	color: #B2592A;
+	color: #CC44B4;
 }
 
 .middle {
