@@ -56,6 +56,35 @@ body {
 
 }
 
+.gitbutton {
+
+	float: left;
+	box-sizing: border-box;
+	width: 62px;
+	height: 62px;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+.libutton {
+
+	float: left;
+	box-sizing: border-box;
+	width: 62px;
+	height: 62px;
+	margin-top: 10px;
+	margin-left: 12px;
+}
+
+.sobutton {
+	float: left;
+	box-sizing: border-box;
+	width: 62px;
+	height: 62px;
+	margin-top: 10px;
+	margin-left: 12px;
+}
+
 button {
 	font-family: 'Arial', 'helvetica Neue', 'helvetica', sans-serif;
 	font-size: 16px;
