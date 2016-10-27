@@ -54,6 +54,7 @@ body {
     line-height: 4;
 
 
+
 }
 
 .gitbutton {
@@ -92,14 +93,23 @@ button {
 	background-color: white;
 	border-style: none;
 	opacity: .6;
+	
 
 	
 }
 
 button:hover {
 	opacity: 1;
+	font-weight: bold;
 }
 
+
+button:visited {
+	color: #B2592A;
+}
+a:visited {
+	color: #B2592A;
+}
 
 .middle {
 	width: 100%;
@@ -334,6 +344,8 @@ footer {
     border-width: 1px;
     padding-left: 10px;
     margin-top: 10px;
+    padding-top: 10px;
+    font-family: sans-serif;
 }
 
 #submitbutton {
